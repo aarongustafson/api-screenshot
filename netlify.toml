@@ -1,7 +1,5 @@
 [functions]
 directory = "functions"
-
-[functions]
 external_node_modules = ["@sparticuz/chromium"]
 
 [[redirects]]
