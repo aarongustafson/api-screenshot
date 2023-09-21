@@ -1,6 +1,9 @@
 [functions]
 directory = "functions"
 
+[functions]
+external_node_modules = ["@sparticuz/chromium"]
+
 [[redirects]]
 from = "/*"
 to = "/.netlify/builders/screenshot"
